@@ -37,7 +37,7 @@ MUKUNDA MONDAL
 # Licence
 
 
-You may use this project freely at your own risk. See # LICENCE.
+You may use this project freely at your own risk. See LICENCE.
 
 
 Copyright (c) 2023   Mukunda Mondal
