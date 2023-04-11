@@ -33,3 +33,12 @@ Unit Converter system, designed as a part of internship under TASK 1 of Web Deve
 # Author
 
 MUKUNDA MONDAL
+
+# Licence
+
+
+You may use this project freely at your own risk. See LICENSE.
+
+
+Copyright (c) 2023   Mukunda Mondal
+
